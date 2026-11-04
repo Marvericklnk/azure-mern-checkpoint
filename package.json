@@ -1,0 +1,1 @@
+{"name":"azure-mern-checkpoint","version":"1.0.0","private":true,"scripts":{"start":"node server/index.js","dev":"node --watch server/index.js","build":"npm --prefix client ci && npm --prefix client run build","test":"node --test"},"engines":{"node":">=22.12"},"dependencies":{"dotenv":"^18.0.9","express":"^5.3.0","mongoose":"^9.12.0"}}
